@@ -1,7 +1,7 @@
 ## I am a computer science student from Poland.
 I am currently learning **ASP.NET MVC** and **Linux**
 
--:mailbox:How to contact me:[![Linkedin Badge](https://img.shields.io/badge/-Kamil-blue?style=flat&logo=Linkedin&logoColor=white)]([linkedin.com/in/kamil-surlas-ba878527b](https://www.linkedin.com/in/kamil-surlas-ba878527b/))
+-:mailbox:How to contact me:[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamilsurlas)
 
 
 ### :hammer_and_wrench: Languages and Tools :
