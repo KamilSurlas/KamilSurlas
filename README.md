@@ -1,5 +1,5 @@
 ## I am a computer science student from Poland.
-I am currently learning **ASP.NET MVC**, **Java** and **Linux OS**
+I am currently learning **ASP.NET MVC**
 
 :mailbox:How to contact me:[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamilsurlas)
 
