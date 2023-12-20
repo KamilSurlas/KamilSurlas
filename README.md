@@ -6,7 +6,6 @@ I am currently learning **ASP.NET MVC**
 
 ### :hammer_and_wrench: Languages and Tools :
 <div id="technologies">
-<img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp" alt="Cpp" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Win" alt="Win" width="40" height="40"/>
