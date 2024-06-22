@@ -1,9 +1,7 @@
 ## I am a computer science student from Poland.
-I am currently learning **ASP.NET MVC**
 
 :mailbox:How to contact me:<br/>[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamilsurlas)
 <br/><a href="mailto:surlaskamil@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div id="technologies">
